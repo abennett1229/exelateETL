@@ -1,0 +1,9 @@
+Finance - Payment Profile	5	Excellent
+Finance - Payment Profile	2	Fair
+Finance - Payment Profile	3	Good
+Finance - Payment Profile	1	Poor
+Finance - Payment Profile	4	Very Good
+Finance - Ability to Pay	3	High
+Finance - Ability to Pay	4	Highest (Top 20 Percent)
+Finance - Ability to Pay	1	Lowest (Bottom 20 Percent)
+Finance - Ability to Pay	2	Moderate

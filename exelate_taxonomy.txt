@@ -1,0 +1,218 @@
+18	Continuous	Age	NULL	18	24
+19	Continuous	Age	NULL	25	34
+20	Continuous	Age	NULL	35	44
+21	Continuous	Age	NULL	45	54
+22	Continuous	Age	NULL	55	64
+23	Continuous	Age	NULL	65	999999999
+140	Continuous	Age	NULL	18	34
+141	Continuous	Age	NULL	45	54
+144	Continuous	Age	NULL	25	34
+145	Continuous	Age	NULL	35	44
+227	Continuous	Age	NULL	18	24
+229	Continuous	Age	NULL	45	54
+542	Continuous	Age	NULL	18	34
+994	Continuous	Age	NULL	18	24
+996	Continuous	Age	NULL	25	34
+998	Continuous	Age	NULL	35	44
+1000	Continuous	Age	NULL	45	54
+1280	Continuous	Age	NULL	55	64
+1281	Continuous	Age	NULL	65	999999999
+1282	Continuous	Age	NULL	55	64
+1283	Continuous	Age	NULL	65	999999999
+1286	Continuous	Age	NULL	25	49
+3141	Continuous	Age	NULL	45	49
+3373	Continuous	Age	NULL	45	54
+3374	Continuous	Age	NULL	45	54
+3376	Continuous	Age	NULL	45	49
+7712	Continuous	Age	NULL	25	34
+7713	Continuous	Age	NULL	25	34
+7714	Continuous	Age	NULL	35	44
+7792	Continuous	Age	NULL	35	44
+9962	Continuous	Age	NULL	18	24
+10320	Continuous	Age	NULL	25	54
+13438	Continuous	Age	NULL	18	24
+13439	Continuous	Age	NULL	55	64
+13440	Continuous	Age	NULL	55	64
+13441	Continuous	Age	NULL	65	999999999
+13442	Continuous	Age	NULL	18	24
+13443	Continuous	Age	NULL	45	54
+13444	Continuous	Age	NULL	65	999999999
+13447	Continuous	Age	NULL	18	24
+13448	Continuous	Age	NULL	18	24
+13449	Continuous	Age	NULL	18	24
+13450	Continuous	Age	NULL	35	44
+13451	Continuous	Age	NULL	35	44
+13452	Continuous	Age	NULL	30	34
+13453	Continuous	Age	NULL	45	54
+13454	Continuous	Age	NULL	25	34
+13455	Continuous	Age	NULL	55	64
+13456	Continuous	Age	NULL	18	24
+13457	Continuous	Age	NULL	65	999999999
+13458	Continuous	Age	NULL	65	999999999
+13459	Continuous	Age	NULL	55	64
+13460	Continuous	Age	NULL	18	24
+13461	Continuous	Age	NULL	18	24
+13462	Continuous	Age	NULL	35	44
+13463	Continuous	Age	NULL	25	34
+13464	Continuous	Age	NULL	35	44
+13465	Continuous	Age	NULL	25	34
+13466	Continuous	Age	NULL	55	64
+13467	Continuous	Age	NULL	45	54
+13468	Continuous	Age	NULL	55	64
+13469	Continuous	Age	NULL	65	999999999
+13470	Continuous	Age	NULL	45	54
+13471	Continuous	Age	NULL	65	999999999
+13701	Continuous	Age	NULL	18	49
+13702	Continuous	Age	NULL	25	49
+13703	Continuous	Age	NULL	25	54
+13705	Continuous	Age	NULL	18	49
+36	Nominal	Career 	Health Care Professionals	NULL	NULL
+37	Nominal	Career 	IT Professionals	NULL	NULL
+336	Nominal	Career 	Accounting and Finance	NULL	NULL
+337	Nominal	Career 	Arts, Entertainment and Gaming	NULL	NULL
+338	Nominal	Career 	Clerical and Administrative	NULL	NULL
+339	Nominal	Career 	Construction and Extraction	NULL	NULL
+340	Nominal	Career 	Customer Service	NULL	NULL
+341	Nominal	Career 	Education, Training and Library	NULL	NULL
+342	Nominal	Career 	Engineering and Architecture	NULL	NULL
+343	Nominal	Career 	Human Resources	NULL	NULL
+344	Nominal	Career 	Insurance	NULL	NULL
+345	Nominal	Career 	Legal Services	NULL	NULL
+346	Nominal	Career 	Management and Business	NULL	NULL
+347	Nominal	Career 	Manufacturing and Production	NULL	NULL
+348	Nominal	Career 	Marketing and Advertising	NULL	NULL
+349	Nominal	Career 	Media and Communication	NULL	NULL
+350	Nominal	Career 	Merchandising, Purchasing and Retail	NULL	NULL
+351	Nominal	Career 	Science and Biotech	NULL	NULL
+352	Nominal	Career 	Transportation and Logistics	NULL	NULL
+353	Nominal	Career 	Travel, Hospitality and Restaurant	NULL	NULL
+354	Nominal	Career 	Military and Government	NULL	NULL
+355	Nominal	Career 	Personal and Home Services	NULL	NULL
+356	Nominal	Career 	Public Relations	NULL	NULL
+357	Nominal	Career 	Public Utilities and Services	NULL	NULL
+358	Nominal	Career 	Real Estate and Building Maintenance	NULL	NULL
+359	Nominal	Career 	Research	NULL	NULL
+360	Nominal	Career 	Sales and Sales Management	NULL	NULL
+2664	Nominal	Career 	Research	NULL	NULL
+5206	Nominal	Career 	Retired	NULL	NULL
+5207	Nominal	Career 	Homemaker	NULL	NULL
+6216	Nominal	Career 	Artisan and Retailer	NULL	NULL
+6218	Nominal	Career 	Agriculture and Farming	NULL	NULL
+6219	Nominal	Career 	Executive	NULL	NULL
+6220	Nominal	Career 	Liberal Professional	NULL	NULL
+6221	Nominal	Career 	Student	NULL	NULL
+6223	Nominal	Career 	Entrepreneur	NULL	NULL
+7066	Nominal	Career 	Entry	NULL	NULL
+7067	Nominal	Career 	Mid	NULL	NULL
+21179	Nominal	Career 	EMS	NULL	NULL
+21180	Nominal	Career 	Law Enforcement	NULL	NULL
+21181	Nominal	Career 	Law Enforcement	NULL	NULL
+21182	Nominal	Career 	Fire Rescue	NULL	NULL
+21184	Nominal	Career 	Military and Government	NULL	NULL
+21185	Nominal	Career 	Military and Government	NULL	NULL
+21186	Nominal	Career 	Military and Government	NULL	NULL
+21187	Nominal	Career 	Military and Government	NULL	NULL
+1306	Nominal	Education 	College Grad	NULL	NULL
+1307	Nominal	Education 	Grad Degree	NULL	NULL
+5097	Nominal	Education 	Vocational	NULL	NULL
+5098	Nominal	Education 	Grad Degree	NULL	NULL
+5099	Nominal	Education 	High School	NULL	NULL
+5100	Nominal	Education 	Grad Degree	NULL	NULL
+5101	Nominal	Education 	Associates Degree	NULL	NULL
+5102	Nominal	Education 	Some College	NULL	NULL
+6606	Ordinal	Finance - Ability to Pay	3	NULL	NULL
+6607	Ordinal	Finance - Ability to Pay	2	NULL	NULL
+6608	Ordinal	Finance - Ability to Pay	4	NULL	NULL
+6609	Ordinal	Finance - Ability to Pay	1	NULL	NULL
+6597	Continuous	Finance - Discretionary Spending	NULL	200000	999999999
+6598	Continuous	Finance - Discretionary Spending	NULL	75000	99999
+6599	Continuous	Finance - Discretionary Spending	NULL	100000	200000
+6600	Continuous	Finance - Discretionary Spending	NULL	30000	39999
+6601	Continuous	Finance - Discretionary Spending	NULL	0	9999
+6602	Continuous	Finance - Discretionary Spending	NULL	50000	74999
+6603	Continuous	Finance - Discretionary Spending	NULL	20000	29999
+6604	Continuous	Finance - Discretionary Spending	NULL	40000	49999
+6605	Continuous	Finance - Discretionary Spending	NULL	10000	19999
+16586	Continuous	Finance - House Value	NULL	0	99998
+16587	Continuous	Finance - House Value	NULL	100000	199999
+16588	Continuous	Finance - House Value	NULL	600000	699999
+16589	Continuous	Finance - House Value	NULL	200000	299999
+16590	Continuous	Finance - House Value	NULL	800000	899999
+16591	Continuous	Finance - House Value	NULL	500000	599999
+16592	Continuous	Finance - House Value	NULL	400000	499999
+16593	Continuous	Finance - House Value	NULL	900000	999999
+16594	Continuous	Finance - House Value	NULL	700000	799999
+16595	Continuous	Finance - House Value	NULL	1000000	999999999
+16596	Continuous	Finance - House Value	NULL	300000	399999
+2650	Continuous	Finance - Net Worth	NULL	-999999999	-20001
+2651	Continuous	Finance - Net Worth	NULL	-20000	-2500
+2652	Continuous	Finance - Net Worth	NULL	-2499	2499
+2653	Continuous	Finance - Net Worth	NULL	2500	24999
+2654	Continuous	Finance - Net Worth	NULL	25000	49999
+2655	Continuous	Finance - Net Worth	NULL	50000	74999
+2656	Continuous	Finance - Net Worth	NULL	75000	99999
+2657	Continuous	Finance - Net Worth	NULL	100000	149999
+2658	Continuous	Finance - Net Worth	NULL	150000	249999
+2659	Continuous	Finance - Net Worth	NULL	250000	374999
+2660	Continuous	Finance - Net Worth	NULL	375000	499999
+2661	Continuous	Finance - Net Worth	NULL	500000	749999
+2662	Continuous	Finance - Net Worth	NULL	750000	999999
+2663	Continuous	Finance - Net Worth	NULL	1000000	999999999
+5193	Ordinal	Finance - Payment Profile	1	NULL	NULL
+5194	Ordinal	Finance - Payment Profile	3	NULL	NULL
+5195	Ordinal	Finance - Payment Profile	2	NULL	NULL
+5196	Ordinal	Finance - Payment Profile	4	NULL	NULL
+5197	Ordinal	Finance - Payment Profile	5	NULL	NULL
+15	Binary	Gender	Female	NULL	NULL
+16	Binary	Gender	Male	NULL	NULL
+316	Nominal	Household - Ownership	Home Owners	NULL	NULL
+317	Nominal	Household - Ownership	Renters	NULL	NULL
+318	Binary	Household - Presence of Children	With Children	NULL	NULL
+319	Binary	Household - Presence of Children	Without Children	NULL	NULL
+6225	Nominal	Household - Type	Apartment	NULL	NULL
+5198	Continuous	Household - Years of Residence	NULL	0	1
+5199	Continuous	Household - Years of Residence	NULL	7	999999999
+5200	Continuous	Household - Years of Residence	NULL	4	6
+5201	Continuous	Household - Years of Residence	NULL	1	3
+5202	Continuous	Household Composition - Household Size - Adults	NULL	1	1
+5203	Continuous	Household Composition - Household Size - Adults	NULL	3	999999999
+5204	Continuous	Household Composition - Household Size - Adults	NULL	2	2
+16094	Nominal	Household Composition - Presence of Children by Age	0-3 Years	NULL	NULL
+16095	Nominal	Household Composition - Presence of Children by Age	13-17 Years	NULL	NULL
+16096	Nominal	Household Composition - Presence of Children by Age	8-12 Years	NULL	NULL
+16097	Nominal	Household Composition - Presence of Children by Age	4-7 Years	NULL	NULL
+306	Continuous	Income Level	NULL	150000	999999999
+307	Continuous	Income Level	NULL	125000	149999
+308	Continuous	Income Level	NULL	100000	124999
+309	Continuous	Income Level	NULL	75000	99999
+310	Continuous	Income Level	NULL	60000	74999
+311	Continuous	Income Level	NULL	50000	59999
+312	Continuous	Income Level	NULL	40000	49999
+313	Continuous	Income Level	NULL	30000	39999
+314	Continuous	Income Level	NULL	20000	29999
+315	Continuous	Income Level	NULL	0	19999
+2790	Continuous	Income Level	NULL	75000	999999999
+38	Nominal	Marital Status 	Single	NULL	NULL
+6226	Nominal	Marital Status 	Divorced	NULL	NULL
+6227	Nominal	Marital Status 	Married	NULL	NULL
+5175	Nominal	Politics 	U.S. Senate Districts	NULL	NULL
+5171	Nominal	Politics - District	U.S. Congressional Districts	NULL	NULL
+5172	Nominal	Politics - Political Views	Independent	NULL	NULL
+5176	Nominal	Politics - Political Views	Leans right	NULL	NULL
+5177	Nominal	Politics - Political Views	Leans left	NULL	NULL
+5173	Nominal	Politics - Voter Registration	Democrat	NULL	NULL
+5174	Nominal	Politics - Voter Registration	Republican	NULL	NULL
+5183	Nominal	Politics - Voting Status	Likely Voter	NULL	NULL
+7151	Nominal	Politics - Voting Status	Likely Non Voter	NULL	NULL
+30	Nominal	Race 	African American	NULL	NULL
+291	Nominal	Race 	Asian	NULL	NULL
+13413	Nominal	Race 	Hispanic	NULL	NULL
+13414	Nominal	Race 	White	NULL	NULL
+13415	Nominal	Race 	Other	NULL	NULL
+22879	Nominal	Technographics 	Mac User	NULL	NULL
+22880	Nominal	Technographics 	Windows User	NULL	NULL
+320	Nominal	Urbanicity 	Urban Core	NULL	NULL
+321	Nominal	Urbanicity 	Urban	NULL	NULL
+322	Nominal	Urbanicity 	Suburban	NULL	NULL
+323	Nominal	Urbanicity 	Suburban City	NULL	NULL
+324	Nominal	Urbanicity 	Rural	NULL	NULL
